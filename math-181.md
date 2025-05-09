@@ -1,0 +1,66 @@
+---
+layout: default
+title: "MATH-181: Discrete Structures"
+permalink: /math-181/
+---
+
+<div id="content">
+    <aside>
+        <img width="200px" src="{{ '/assets/DiscreteCover.webp' | relative_url }}" alt="Discrete Structures Cover">
+        <h2>Howard University <br> Department of Mathematics</h2>
+    </aside>
+    <div id="classContent">
+        <h1>Math 181: Discrete Structures</h1>
+        <h2>Spring 2025</h2>
+        
+        <table>
+            <tr>
+                <td><h3>Instructor:</h3></td>
+                <td>Drew Dickenson <br> Office: ASB-B - #206 <br> 
+                    Email: <a href="mailto:macy.dickenson@howard.edu">macy.dickenson@howard.edu</a>
+                </td>
+            </tr>
+            <tr>
+                <td><h3>Lectures:</h3></td>
+                <td>Monday-Wednesday-Friday, 1:10-2:00pm <br> 
+                    Alain Locke Hall - #B21
+                </td>
+            </tr>
+            <tr>
+                <td><h3>Office Hours:</h3></td>
+                <td>MWF 10:30-12:30pm<br>
+                    Available online or in-person (also by appointment)
+                </td>
+            </tr>
+            <tr>
+                <td><h3>Course Content:</h3></td>
+                <td>In Discrete Structures, we will consider the basics of mathematical logic, set theory, and discrete mathematics (combinatorics and/or graph theory), and will learn to construct and write rigorous mathematical proofs.</td>
+            </tr>
+            <tr>
+                <td><h3>Prerequisites:</h3></td>
+                <td>Math 157 (Calculus II) with a "C" or better</td>
+            </tr>
+            <tr>
+                <td><h3>Textbook:</h3></td>
+                <td><i>Discrete Mathematics</i>, 8th edition by R. Johnsonbaugh</td>
+            </tr>
+            <tr>
+                <td><h3>Grading:</h3></td>
+                <td>The grading for the course will be based on <b>Homeworks</b>, <b>Midterm Exams</b>, and the <b>Final Exam</b>. The grading scheme is: 
+                    <ul> 
+                        <li>Homeworks = 40% of grade</li> 
+                        <li>Each of midterm = 20% of grade</li> 
+                        <li>Final exam = 20% of grade</li> 
+                    </ul> 
+                    <b>Homework</b> problems will be assigned each Wednesday and due the next Wednesday with some exceptions. There will be atleast 12 total homeworks assigned. Your highest 10 homeworks will count. Barring exceptional circumstances, you must turn in your homeworks before class on Wednesdays. <br><br>
+                    There will be two in-class <b>midterms</b> in the semester. They will be announced at1-2 weeks in advance. The <b>final</b> will happen after the end of classes, during finals week. <br><br>
+                    Collaboration on homework assignments is encouraged, as long as each person writes their own solutions and writes with whom they collaborated. The use of calculators or tools from the Internet is not permitted. You may use your own notes and the textbook on the homework assignments, but the in-class tests are closed-book. Do not use your phone during class and especially not during tests. <br><br> I may consider other factors, like class participation, when determining final letter grades, especially in borderline cases.
+                </td>
+            </tr>
+            <tr>
+                <td><h3>Syllabus:</h3></td>
+                <td>Click <a href="{{ '/181/181_SP25Syllabus.pdf' | relative_url }}">here</a> for a pdf version of the syllabus.</td>
+			</tr>
+        </table>
+    </div>
+</div>

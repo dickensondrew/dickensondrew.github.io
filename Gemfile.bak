@@ -13,5 +13,6 @@ end
 # Windows-specific requirements
 gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw]
 # Gemfile
+gem 'wdm', '~> 0.1.1'
 # Theme (if using minima or another theme)
 gem "minima", "~> 2.5"
